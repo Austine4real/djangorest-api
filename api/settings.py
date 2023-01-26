@@ -30,7 +30,7 @@ DEBUG = True
 
 # ALLOWED_HOSTS = ['localhost','django-ubos.herokuapp.com']
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = []
 
 
 # Application definition
